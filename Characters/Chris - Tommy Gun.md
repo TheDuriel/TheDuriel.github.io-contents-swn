@@ -6,7 +6,7 @@
 - **Faction:** 
 - **Training:** 
 - **Traits:** 
-
+%%
 
 Aka. Mallcop 9000
 

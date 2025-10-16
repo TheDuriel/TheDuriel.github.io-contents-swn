@@ -3,10 +3,10 @@
 - **Gender:** M 
 - **Nationality:** Gothic? 
 - **Homeworld:** [[0309]] Garyth
-- **Faction:** Formerly with [[Greenflow Biotics]]
+- **Faction:** REDACTED %%Formerly with [[Greenflow Biotics]]%%
 - **Training:** Biosciences, Fungi Specialist
 - **Traits:** Ratty
-
+%%
 
 Ex Greenflow Biotics scientist.
 Had a falling out with the company.

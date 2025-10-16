@@ -1,46 +1,49 @@
 ### Ship - Free Merchant Freighter - Frigatte
-**Name:** Swinya-5 - Default, 1 Free Override left
-Spike Drive: Tier 1
-Manufacturer: [[Helion Shipworks]] - New (Refurbished)
-Bank: [[Concordant Exchange]] - Loan managed by [[Maren Daskov]]
-Loan Holder: [[Marko - Ivan]]
-Market Value: 775kc
-Remaining Debt: 775kc
-6 Month Maintenance Cost: 38,750c
-Interest: 16%, Sector Default
-Salary for 1 crew: 10,950c
-Minimum Crew: 2, Captain, Bridge/Pilot
-Maximum Crew: 6, Gunnery, Engineering, Comms
-Maximum Cargo: 160 tons solid or liquid
-Facilities: Bridge, Private Quarters x 6, Mess Hall, Gunnery Station, Cargo Deck
-Addons: Atmospheric Configuration, Fuel Scoops, Fuel Bunker
-Weapons: Multifocal Laser, Sand Thrower
-Defenses: -
-Fuel: 2/1 500c
+- **Name:** Swinya-5 - Default, 1 Free Override left
+- Spike Drive: Tier 1
+- Manufacturer: [[Helion Shipworks]] - New (Refurbished)
+- Bank: [[Concordant Exchange]] - Loan managed by [[Maren Daskov]]
+- Loan Holder: [[Marko - Ivan]]
+- Market Value: 775kc
+- Remaining Debt: 775kc
+- 6 Month Maintenance Cost: 38,750c
+- Interest: 16%, Sector Default
+- Salary for 1 crew: 10,950c
+- Minimum Crew: 2, Captain, Bridge/Pilot
+- Maximum Crew: 6, Gunnery, Engineering, Comms
+- Maximum Cargo: 160 tons solid or liquid
+- Facilities: Bridge, Private Quarters x 6, Mess Hall, Gunnery Station, Cargo Deck
+- Addons: Atmospheric Configuration, Fuel Scoops, Fuel Bunker
+- Weapons: Multifocal Laser, Sand Thrower
+- Defenses: -
+- Fuel: 2/2
+- Fuel Cost: 500c
+- Hull Repair Host: 1000c each
+- HUll Repair Speed: 2 a day
 
-### Damages
-5 Points of Hull damage
-Repair cost: 1000c each
-Max repair: 2 a day
-
-### Inventory
-3 Rebreathers
-1 Carbon Rope
-3 vac suits
-1 salvage kit
-
-### Equipment
-Loading Winch (Warranty void)
+### Equipment & Inventory
+* Loading Winch (Warranty void)
+* 3 Rebreathers
+* 1 Carbon Rope
+* 3 EVA Vac-suits
+* 1 Salvage Kit - Marko
 
 ### Crew
-1 Kid [[Fizz Ril Andok]]
+* **Captain / Pilot:** [[Marko - Ivan]] 
+* **Science Officer:** [[Brian - Rattigan]]
+* **Security Officer:** [[Chris - Tommy Gun]]
+* **Medic:** [[Seb - Rasputin]]
 
-### Banks
-Ship 16.000c
-Gonk 1.000c
-Mallcop 1.000c held by Gonk
-Priest 1.000c
-Scientist 1.000c
+### Bank Accounts
+Public Banking information.
+
+| Owner                 | Bank                    | Credits |
+| --------------------- | ----------------------- | ------- |
+| Ship                  | [[Concordant Exchange]] | 10.000  |
+| [[Marko - Ivan]]      | The Exchange            | 1.000   |
+| [[Brian - Rattigan]]  | The Exchange            | 1.000   |
+| [[Chris - Tommy Gun]] | The Exchange            | 1.000   |
+| [[Seb - Rasputin]]    | The Exchange            | 1.000   |
 
 ---
 # Travel Times by Distance

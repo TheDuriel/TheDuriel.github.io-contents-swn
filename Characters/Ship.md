@@ -19,7 +19,7 @@
 - Fuel: 2/2
 - Fuel Cost: 500c
 - Hull Repair Host: 1000c each
-- HUll Repair Speed: 2 a day
+- Hull Repair Speed: 2 a day
 
 ### Equipment & Inventory
 * Loading Winch (Warranty void)

@@ -6,6 +6,8 @@
 - **Vibe:** Cold War United States + Prussia
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 7
 * **Cunning:** 4
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

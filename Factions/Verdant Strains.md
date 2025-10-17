@@ -6,6 +6,8 @@
 - **Vibe:** 
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 2
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

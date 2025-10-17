@@ -6,6 +6,8 @@
 - **Vibe:** Renaissance Italian city-states + Catholic Church
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 5
 * **Cunning:** 4
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

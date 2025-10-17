@@ -27,7 +27,7 @@ Remarks: _“The TKL-217 platform was one of Tarkos’ better models — sturdy,
 ---
 ### **Deliverables**
 - **Primary Objective:** Retrieve TKL-217 Data Core (Black Box).
-- **Secondary Objective:** `data encrypted`
+- **Secondary Objective:** %% Find out about the fate of a missing Greenflow Biotics researcher. %%
 - **Optional Objective:** Recover any remaining Tarkos mineral samples or research logs.
 
 ---

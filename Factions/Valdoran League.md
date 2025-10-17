@@ -6,6 +6,8 @@
 - **Vibe:** Late 19th–early 20th century Northern Europe
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 4
 * **Cunning:** 5 
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

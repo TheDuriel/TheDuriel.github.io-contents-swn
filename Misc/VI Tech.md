@@ -1,4 +1,4 @@
-## ⚙️ Factions Likely Involved in Creation & Maintenance
+## Factions Likely Involved in Creation & Maintenance
 
 1. **Aleris Systems Collective ([[0105]] Aleris)**
     - **Involvement:** As the sector’s academic-technocratic hub, Aleris would absolutely experiment with **neural mapping, cognitive storage, and VI frameworks**.
@@ -17,7 +17,7 @@
     - **Role:** Might _sustain_ such tech in a controlled monastery-lab, seeing it as either divine proof or heretical temptation.
     - **Spin:** Officially denounce uploads, but secretly keep them for “theological study.”
 
-## ⚔️ Factions Likely Opposed to VI Existence
+## Factions Likely Opposed to VI Existence
 
 1. **Koralis Senate & Agro-Collective ([[0404]] Koralis)**
     - Practical, conservative, resource-focused.
@@ -36,14 +36,14 @@
     - Consider uploads to be **“ghosts in stolen shells.”**
     - May react violently if one is discovered in their territory.
 
-## ⚖️ Ambiguous / Divided Factions
+## Ambiguous / Divided Factions
 
 - **Pilgrim’s Star Logistics ([[0505]] Aurix)**
     - Practical merchants. If uploads can _legally_ operate ships without requiring life support, they’d be all for it — but not if it jeopardizes contracts.
 - **Virellia Spire Media ([[0705]])**
     - Fascinated by the **narrative drama** of a returned dead person. Some factions of Spire Media would promote uploads as revolutionary “human stories,” others would spread panic about soulless machines.
 
-## 🔥 Narrative Tensions for the PC
+## Narrative Tensions for the PC
 
 - **Legal Status:**
     - Some systems will legally register the PC as **“property”** (an asset of the corp that made them).

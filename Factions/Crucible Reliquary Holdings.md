@@ -6,6 +6,8 @@
 - **Vibe:** Vatican Bank meets medieval pilgrimage industry.
 * **Bases:** [[0404]] Koralis, [[0604]] Lyranth
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 3 
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

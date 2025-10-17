@@ -6,6 +6,8 @@
 - **Vibe:** A Vtuber agency bought youtube.
 * **Bases:** 
 * **NPCs:** Eidolynx
+---
+%%
 ### Statistics
 * **Force:** 1
 * **Cunning:** 5
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

@@ -6,6 +6,8 @@
 - **Vibe:** Somali pirate cartels + historical maritime smugglers.
 * **Bases:** [[0305]] Trinova
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 4
 * **Cunning:** 6
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

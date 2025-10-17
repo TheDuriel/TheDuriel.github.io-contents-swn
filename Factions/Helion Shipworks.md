@@ -6,6 +6,8 @@
 - **Vibe:** Soviets era meritocratic company of 'craftsmen'.
 * **Bases:** 
 * **NPCs:**
+---
+%%
 ### Statistics
 * **Force:** 5
 * **Cunning:** 3 
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

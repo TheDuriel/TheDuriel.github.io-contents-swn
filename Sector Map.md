@@ -1,3 +1,7 @@
+### Fancy Map
+* Visit: https://www.sharecanvas.io/p/spelsectormap
+
+### Simple Map
 * 🟢 TL4 Capital Worlds
 * 🔴 Major Astrological Anomaly
 * 🔵 Major Pretech Site

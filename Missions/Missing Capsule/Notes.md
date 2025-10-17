@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Start:
 Arrival at the planet
 Getting hailed by the Insight of Dawn (japanese)

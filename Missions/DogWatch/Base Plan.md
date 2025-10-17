@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## **Tarkos Deep Extraction Platform — Standard Layout**
 
 > **Designation:** DEP-47 “Iron Mare” Class  

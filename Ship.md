@@ -1,6 +1,8 @@
 ### Ship - Free Merchant Freighter - Frigatte
 - **Name:** Swinya-5 - Default, 1 Free Override left
 - Spike Drive: Tier 1
+- Spike Drive Range: 1 Hex
+- Spike Drive Speed: 6 Days
 - Manufacturer: [[Helion Shipworks]] - New (Refurbished)
 - Bank: [[Concordant Exchange]] - Loan managed by [[Maren Daskov]]
 - Loan Holder: [[Marko - Ivan]]
@@ -12,7 +14,7 @@
 - Minimum Crew: 2, Captain, Bridge/Pilot
 - Maximum Crew: 6, Gunnery, Engineering, Comms
 - Maximum Cargo: 160 tons solid or liquid
-- Facilities: Bridge, Private Quarters x 6, Mess Hall, Gunnery Station, Cargo Deck
+- Facilities: Bridge, Private Quarters x 6, Mess Hall, Gunnery Station, Cargo Deck, Bathroom, Recreational Space, Medical Station
 - Addons: Atmospheric Configuration, Fuel Scoops, Fuel Bunker
 - Weapons: Multifocal Laser, Sand Thrower
 - Defenses: -
@@ -20,6 +22,11 @@
 - Fuel Cost: 500c
 - Hull Repair Host: 1000c each
 - Hull Repair Speed: 2 a day
+
+### Charts
+* Charts purchased: 3213-07-1
+* Charts expire: 3214-01-1
+* Charts coverage: All systems in the 02 to 06 horizontal.
 
 ### Equipment & Inventory
 * Loading Winch (Warranty void)

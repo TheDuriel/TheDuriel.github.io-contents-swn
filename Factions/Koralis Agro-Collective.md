@@ -6,6 +6,8 @@
 - **Vibe:** Soviet-style state collectives + ADM (Archer Daniels Midland).
 * **Bases:** [[0004]] Valdora
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 3
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

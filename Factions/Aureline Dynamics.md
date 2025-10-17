@@ -6,6 +6,8 @@
 - **Vibe:** Apple meets Rolls Royce, Everyone is an Artist.
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 3
 * **Cunning:** 4
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

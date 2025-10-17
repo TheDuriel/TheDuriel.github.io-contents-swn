@@ -6,6 +6,8 @@
 - **Vibe:** Renaissance France + Byzantine Empire
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 4
 * **Cunning:** 7 
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

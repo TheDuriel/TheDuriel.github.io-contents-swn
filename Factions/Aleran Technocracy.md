@@ -6,6 +6,8 @@
 - **Vibe:** Postwar Japan meets Modern Research Community
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 3
 * **Cunning:** 7
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

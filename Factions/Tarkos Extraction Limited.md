@@ -6,6 +6,8 @@
 - **Vibe:** neo-Australian Oil Rig meets Starcraft 2 Terrans
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 1
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # The Missing Capsule (Nyxara [[0202]].1)
 
 A survey capsule, launched from orbit by an [[Aleran Technocracy]] research craft, crashed into the **Twilight Lowlands** of Nyxara. The capsule contains **data cores and precursor fragments** collected from a spire filament chamber. Whoever controls it could leverage the information for science, power, or profit.

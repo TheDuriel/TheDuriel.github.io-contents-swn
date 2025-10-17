@@ -6,6 +6,8 @@
 - **Vibe:** Rio Tinto + old colonial mining syndicates.
 * **Bases:** [[0604]] Lyranth, [[0305]] Trinova
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 4
 * **Cunning:** 4
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

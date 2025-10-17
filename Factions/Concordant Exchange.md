@@ -6,6 +6,8 @@
 - **Vibe:** Ruthless capitalist exploitation under a prestigious veneer.
 * **Bases:** [[0505]] Aurix, [[0404]] Koralis
 * **NPCs:** [[Maren Daskov]]
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 5
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

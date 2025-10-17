@@ -6,6 +6,8 @@
 - **Vibe:** Cargill meets East India Company.
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 3
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

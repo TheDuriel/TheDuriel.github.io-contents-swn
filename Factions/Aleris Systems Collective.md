@@ -6,6 +6,8 @@
 - **Vibe:** IBM/Google meets NASA/JPL.
 * **Bases:** [[0004]] Valdora, [[0604]] Lyranth
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 6
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

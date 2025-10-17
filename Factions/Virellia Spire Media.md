@@ -6,6 +6,8 @@
 - **Vibe:** A hybrid of Disney, BBC World Service, and Byzantine court chroniclers.
 * **Bases:** [[0105]] Aleris, [[0505]] Aurix
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 7 
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

@@ -6,6 +6,8 @@
 - **Vibe:** Scandinavian Raiding Parties meet Russian Paramilitary
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 6
 * **Cunning:** 4
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

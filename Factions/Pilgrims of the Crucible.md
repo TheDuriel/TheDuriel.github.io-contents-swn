@@ -6,6 +6,8 @@
 - **Vibe:** Medieval Pilgrims + Early Islamic Expansion Period
 * **Bases:** 
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 5
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

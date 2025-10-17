@@ -6,6 +6,8 @@
 - **Vibe:** Monsanto + biotech pharma conglomerates.
 * **Bases:** [[0404]] Koralis, [[0004]] Valdora
 * **NPCs:** 
+---
+%%
 ### Statistics
 * **Force:** 3
 * **Cunning:** 5
@@ -20,3 +22,4 @@
 ### Assets
 
 ### Notes
+%%

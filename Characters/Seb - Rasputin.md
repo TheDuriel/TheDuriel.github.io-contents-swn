@@ -15,3 +15,4 @@ Oringinally worked with Pilgrims Star Logistics, worked as a enforcere clergy ty
 
 became a follower of the crab
 went to clergy psychic academy - Crucible
+%%

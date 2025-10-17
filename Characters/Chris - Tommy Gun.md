@@ -48,3 +48,4 @@ wants to acquire hacking upgrades
 - The job is remembered as a **botched corporate assassination**, but the _real story_ — the data-vault theft — was buried in the cover-up.
 - The assassin’s _new self_ in the VI-shell has no memory of that night, nor of the _real employer._
 - Rumors still circulate in underworld circles that **someone walked away with precursor Crucible data** from that estate — and now everyone wonders if the “reborn” assassin knows more than they should.
+%%

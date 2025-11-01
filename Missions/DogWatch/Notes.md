@@ -2,6 +2,27 @@
 draft: true
 ---
 
+Text contact to the Red Drill
+Go to drive core
+Could walk up the west elevator without gravity
+
+
+
+
+T.E.A.R.S.
+Tarkos Extraction Autonomous Robotics System
+
+Red Drill
+A 2 - Arvi Collins - Revived - 1 Strain
+B 2 - 1 Strain
+C 3 - 1 Strain
+
+
+the crew has put the ship down next to the recreation bay
+
+
+
+
 brian: greenflow credentials
 crew: mining credentials
 

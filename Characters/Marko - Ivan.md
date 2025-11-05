@@ -11,9 +11,9 @@
 ### Stalker Drone
 * Tech Level: TL4
 * Fitting Capacity: 3/2 
-* Armor Class: 1
+* Armor Class: 13
 * Encumbrance: 2
-* HP: 5
+* HP: 5 - 1
 * Range: 2km
 * Charge: 1 TypeA battery every 6 hours
 * Fitting: Weapon, Station Keeping

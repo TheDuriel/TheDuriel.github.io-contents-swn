@@ -1,4 +1,4 @@
-- **Name:** Gannimede Ratsinger
+- **Name:** Gannimede Ratsinger 
 - **Age:** 62
 - **Gender:** M 
 - **Nationality:** Gothic? 

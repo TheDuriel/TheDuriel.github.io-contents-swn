@@ -37,7 +37,7 @@
 
 ### Crew
 * **Captain / Pilot:** [[Marko - Ivan]] 
-* **Science Officer:** [[Brian - Rattigan]]
+* **Science Officer:** [[Brian - Gannymede]]
 * **Security Officer:** [[Chris - Tommy Gun]]
 * **Medic:** [[Seb - Rasputin]]
 
@@ -48,7 +48,7 @@ Public Banking information.
 | --------------------- | ----------------------- | ------- |
 | Ship                  | [[Concordant Exchange]] | 10.000  |
 | [[Marko - Ivan]]      | The Exchange            | 1.000   |
-| [[Brian - Rattigan]]  | The Exchange            | 1.000   |
+| [[Brian - Gannymede]]  | The Exchange            | 1.000   |
 | [[Chris - Tommy Gun]] | The Exchange            | 1.000   |
 | [[Seb - Rasputin]]    | The Exchange            | 1.000   |
 

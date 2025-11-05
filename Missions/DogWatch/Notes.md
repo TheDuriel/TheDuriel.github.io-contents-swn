@@ -1,6 +1,10 @@
 ---
 draft: true
 ---
+80 minutes of air left
+
+
+
 
 Text contact to the Red Drill
 Go to drive core
@@ -29,7 +33,7 @@ crew: mining credentials
 The Red Drill, small patrol boat
 Nikolaidis Coms Officer
 Crew of 6, coms officer remained on the boat
-Antony Collins
+Antony Collins leader
 
 landed on the side of the crew deck
 chris character shuts down in space to be moved and reactivated on board

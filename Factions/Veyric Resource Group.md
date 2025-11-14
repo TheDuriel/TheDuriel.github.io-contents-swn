@@ -15,7 +15,7 @@
 * **HP:** 28/28
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Imperialist
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

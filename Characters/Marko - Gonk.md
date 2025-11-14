@@ -8,6 +8,8 @@
 - **Training:** Pilot
 - **Traits:** Slav Squatter and Smoker
 
+* Maintenance Capacity: Int + Con + (Fix * 3) = 4
+
 ### Stalker Drone
 * Tech Level: TL4
 * Fitting Capacity: 3/2 

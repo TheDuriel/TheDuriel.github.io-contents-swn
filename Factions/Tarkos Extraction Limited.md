@@ -15,7 +15,7 @@
 * **HP:** 11/11
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Scavengers
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

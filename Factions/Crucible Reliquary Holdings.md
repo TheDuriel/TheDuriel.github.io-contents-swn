@@ -15,7 +15,7 @@
 * **HP:** 19/9
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Plutocratic
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

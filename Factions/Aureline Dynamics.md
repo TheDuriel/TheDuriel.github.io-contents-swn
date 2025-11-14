@@ -15,7 +15,7 @@
 * **HP:** 26/26
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Plutocratic
 * **Goal:**
 * **Allies:** 
 * **Enemies:** [[Helion Shipworks]]

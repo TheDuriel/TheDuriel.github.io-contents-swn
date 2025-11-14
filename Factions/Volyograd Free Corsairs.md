@@ -15,7 +15,7 @@
 * **HP:** 24/24
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Pirates
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

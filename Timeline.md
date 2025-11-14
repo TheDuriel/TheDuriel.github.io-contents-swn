@@ -15,5 +15,9 @@ Timeline of "time spending" events. Each entry lists the time at which an event 
 |      |             |     | 13:00 | Arrival 0403.4 - Crossbay Exchange Hub                                                                     |
 |      | 08 - August |   2 |       | Hull Repairs Completed                                                                                     |
 |      |             |     | 19:00 | Arrival 0403.2 - Mission Location - [[Stars Without Number/Missions/DogWatch/Briefing\|Briefing]]          |
+|      |             |     |       | **Session 3 Start**                                                                                        |
+|      |             |   3 | 01:00 | Dogwatch Station Job                                                                                       |
+|      |             |     |       | **Session 4 Start**                                                                                        |
+|      |             |   3 | 07:00 | Return to Crossbay Exchange Hub                                                                            |
 |      |             |     |       |                                                                                                            |
-| 3213 | 08 - August |   2 | 19:00 | Current Time                                                                                               |
+| 3213 | 08 - August |   3 | 07:00 | Current Time                                                                                               |

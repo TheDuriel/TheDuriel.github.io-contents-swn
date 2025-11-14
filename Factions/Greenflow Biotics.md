@@ -15,7 +15,7 @@
 * **HP:** 29/29
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Machiavellian
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

@@ -18,7 +18,7 @@
 * **HP:** 41
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Planetary Government
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

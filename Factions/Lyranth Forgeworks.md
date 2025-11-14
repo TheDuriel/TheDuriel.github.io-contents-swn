@@ -15,7 +15,7 @@
 * **HP:** 31/31
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Mercenary Group
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

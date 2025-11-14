@@ -1,7 +1,13 @@
 ---
 draft: true
 ---
-80 minutes of air left
+170,000
+
+---
+
+Chris POV
+Tommy Gun
+
 
 
 
@@ -18,7 +24,7 @@ Tarkos Extraction Autonomous Robotics System
 
 Red Drill
 A 2 - Arvi Collins - Revived - 1 Strain
-B 2 - 1 Strain
+B 2 - Tony Brandon - 1 Strain
 C 3 - 1 Strain
 
 

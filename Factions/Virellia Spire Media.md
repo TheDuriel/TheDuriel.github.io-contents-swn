@@ -15,7 +15,7 @@
 * **HP:** 
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Theocratic
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

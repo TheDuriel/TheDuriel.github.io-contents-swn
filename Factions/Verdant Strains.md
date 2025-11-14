@@ -15,7 +15,7 @@
 * **HP:** 9/9
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Colonists
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

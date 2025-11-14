@@ -15,7 +15,7 @@
 * **HP:** 24/24
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Technical Expertise
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

@@ -15,7 +15,7 @@
 * **HP:** 38/38
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Secretive
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

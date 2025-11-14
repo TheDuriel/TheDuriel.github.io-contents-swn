@@ -2,6 +2,17 @@
 draft: true
 ---
 
+TODO
+
+Make a contract offer for Tommy Gun
+Do the faction turn
+Generate news snippet
+Set a date for the pilgrimage
+Send recruitment offers to Rasputin
+Do Gonk Anna update
+
+
+
 
 plant based alien lifeform is common
 source unknown

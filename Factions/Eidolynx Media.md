@@ -15,7 +15,7 @@
 * **HP:** 26/26
 * **XP:** 
 * **FC:** 
-* **Tags:**
+* **Tags:** Fanatical
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 

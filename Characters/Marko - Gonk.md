@@ -18,7 +18,7 @@
 * HP: 5 - 1
 * Range: 2km
 * Charge: 1 TypeA battery every 6 hours
-* Fitting: Weapon, Station Keeping
+* Fitting: Weapon, Station Keeping, Observation Suite
 * Rifle: DMG 1d12*, RNGE 100/300, 30MG
 * Total Debt: 3k
 %%

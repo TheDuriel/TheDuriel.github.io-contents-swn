@@ -2,7 +2,7 @@
 - **Age:** 44
 - **Gender:** F 
 - **Nationality:** French
-- **Homeworld:** [[0705]] Virellia
+- **Homeworld:** [[0705 - Virellia]] Virellia
 - **Faction:** [[Concordant Exchange]]
 - **Training:** Concordant Exchange Ship Loan Manager, Virellia Branch  
 - **Traits:** Calculating and Polished, Cynical Idealist.

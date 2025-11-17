@@ -2,12 +2,12 @@
 draft: true
 ---
 
-# The Missing Capsule (Nyxara [[0202]].1)
+# The Missing Capsule (Nyxara [[0202 - Lowreach]].1)
 
 A survey capsule, launched from orbit by an [[Aleran Technocracy]] research craft, crashed into the **Twilight Lowlands** of Nyxara. The capsule contains **data cores and precursor fragments** collected from a spire filament chamber. Whoever controls it could leverage the information for science, power, or profit.
 
 ### **Which factions are involved?**
-- **[[Aleran Technocracy]] ([[0105]]):** The capsule was theirs. They want it back intact for research and prestige. They’ll pay well but insist on discretion. 
+- **[[Aleran Technocracy]] ([[0105 - Aleris]]):** The capsule was theirs. They want it back intact for research and prestige. They’ll pay well but insist on discretion. 
 - **[[Obsidian Dynamics]]:** Their agents intercepted transmissions about the capsule. They want it first, to plunder for precursor tech.
 - **[[Greenflow Biotics]]:** Claim the capsule violates their monopoly on “official” Nyxaran research. They’ve dispatched a security team to seize it.
 - **Nyxari Lowland Tribes:** Locals see the capsule as a **falling star**, a dangerous omen. Some worship it, others seek to destroy it.

@@ -4,7 +4,7 @@
 
 ---
 #### **Mission Summary**
-A **survey capsule** launched by the [[Aleran Technocracy]] vessel _Insight of Dawn_ experienced atmospheric malfunction and crash-landed within the **Twilight Lowlands** region of [[0202]].2 Nyxara. The capsule contains **classified scientific data and prototype recording cores**. Recovery of the capsule and its contents is a **priority**.
+A **survey capsule** launched by the [[Aleran Technocracy]] vessel _Insight of Dawn_ experienced atmospheric malfunction and crash-landed within the **Twilight Lowlands** region of [[0202 - Lowreach]].2 Nyxara. The capsule contains **classified scientific data and prototype recording cores**. Recovery of the capsule and its contents is a **priority**.
 ##### **Primary Objective:**
 - Locate and retrieve the Aleran survey capsule from the Twilight Lowlands.
 - Return the capsule or its primary data cores to **Dr. Lyssa Veylan** at **Greenflow Outpost Theta (Nyxara Northern Hemisphere)**.

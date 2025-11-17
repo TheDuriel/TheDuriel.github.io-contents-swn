@@ -5,7 +5,7 @@ draft: true
 **Who is running this excavation?**
 - The site is operated by **[[Greenflow Biotics]]**, officially under contract with the **[[Koralis Agro-Collective]]**.
 - Greenflow staff are outwardly “academic researchers,” but most are corporate scientists with heavy security presence.
-- Archaeologists from **Aleris ([[0105]])** provide technical expertise — but are constantly monitored to prevent leaks.
+- Archaeologists from **Aleris ([[0105 - Aleris]])** provide technical expertise — but are constantly monitored to prevent leaks.
 
 **Who lays claim to the find?**
 - **Koralis Senate** claims political ownership, arguing it falls within their food/resource bloc.
@@ -134,7 +134,7 @@ Think of the site as a **sprawling jungle installation**, broken into semi-isola
 
 1. **Dr. Kaelen Veyra**
     - _Job/Role:_ Lead xenotech archaeologist
-    - _Faction:_ **Aleris Technocracy ([[0105]])**
+    - _Faction:_ **Aleris Technocracy ([[0105 - Aleris]])**
     - _Personality:_ Brilliant, suspicious, quietly idealistic.
     - _Notes:_ Wants the truth of the ruins revealed, but is constantly monitored.
 2. **Mira Drosk**
@@ -170,12 +170,12 @@ Think of the site as a **sprawling jungle installation**, broken into semi-isola
 
 7. **Taya Verran**
     - _Job/Role:_ Verdant Strains tribal emissary
-    - _Faction:_ **[[Verdant Strains]] ([[0208]])**
+    - _Faction:_ **[[Verdant Strains]] ([[0208 - Emerald Grave]])**
     - _Personality:_ Fierce, spiritual, unforgiving.
     - _Notes:_ Claims the ruins are sacred; may offer PCs a “better path.”
 8. **Soren Veyric**
     - _Job/Role:_ Smuggler captain
-    - _Faction:_ **Veyric Resource Group ([[0105]])** / freelance
+    - _Faction:_ **Veyric Resource Group ([[0105 - Aleris]])** / freelance
     - _Personality:_ Shrewd, opportunistic, restless.
     - _Notes:_ Runs Tl3 arms to the Verdant Strains, might offer PCs black-market aid.
 

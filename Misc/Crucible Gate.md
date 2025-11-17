@@ -8,7 +8,7 @@
 ## How It Looks in Daily Life
 
 ### 1. **Pilgrimage**
-- Pilgrims travel to Aurix ([[0505]]) to behold the Gate. Many never leave, settling in orbit or within the fortress-monastery hollowed into its ring.
+- Pilgrims travel to Aurix ([[0505 - Aurix]]) to behold the Gate. Many never leave, settling in orbit or within the fortress-monastery hollowed into its ring.
 - Some wear simple tokens — rings, pendants, or tattoos in the shape of the Gate.
 ### 2. **Rituals**
 - **The Vigil:** Pilgrims spend nights gazing upon the Gate from observation decks, reciting litanies about endurance and passage.

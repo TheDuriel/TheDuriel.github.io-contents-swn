@@ -1,25 +1,30 @@
 - **Type:** Corporation
 - **Structure:** Farmers Collective
 - **Culture:** Prussian Beurocratic
-- **Home:** [[0404]] - Koralis
+- **Home:** [[0404 - Koralis]] - Koralis
 - **Services:** Staple crop production, orbital grain storage, agricultural logistics.
 - **Vibe:** Soviet-style state collectives + ADM (Archer Daniels Midland).
-* **Bases:** [[0004]] Valdora
+* **Bases:** [[0004 - Valdora]] Valdora
 * **NPCs:** 
 ---
-%%
 ### Statistics
 * **Force:** 2
 * **Cunning:** 3
 * **Wealth:** 6
 * **HP:** 24/24
 * **XP:** 
-* **FC:** 
-* **Tags:** Plutocratic
+* **FC:** 4 - 
+* **Tags:** [[Tags#Plutocratic]]
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
 
+| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
+| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
+|      |     |          |     |      |        |         |      |
+|      |     |          |     |      |        |         |      |
+|      |     |          |     |      |        |         |      |
+|      |     |          |     |      |        |         |      |
+
 ### Notes
-%%

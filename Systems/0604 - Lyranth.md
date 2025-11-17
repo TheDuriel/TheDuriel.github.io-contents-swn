@@ -42,13 +42,13 @@
 ### **Trade & Route Connections**
 
 - **Major Spike Routes:**
-    - West–East Spine: [[0404]] → [[0604]] → [[0705]]
-    - Southern Arc: [[0601]] → [[0604]] → [[0608]]
+    - West–East Spine: [[0404 - Koralis]] → [[0604 - Lyranth]] → [[0705 - Virellia]]
+    - Southern Arc: [[0601]] → [[0604 - Lyranth]] → [[0608]]
 - **Neighboring Systems:**
-    - [[0505]] – Aurix (trade and strategic coordination)
+    - [[0505 - Aurix]] – Aurix (trade and strategic coordination)
     - [[0601]] – Lhoris (low-tech agricultural trade)
-    - [[0705]] – Virellia (cultural and political coordination)
-    - [[0404]] – Koralis (industrial partner)
+    - [[0705 - Virellia]] – Virellia (cultural and political coordination)
+    - [[0404 - Koralis]] – Koralis (industrial partner)
 
 ### **Security & Military**
 

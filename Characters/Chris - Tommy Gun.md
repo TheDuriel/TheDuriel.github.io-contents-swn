@@ -29,7 +29,7 @@ wants to acquire hacking upgrades
 
 ## 🕵️‍♂️ The Job That Went Wrong
 
-**Target:** A mid-level **Concordant Exchange** official on **Virellia ([[0705]])**.
+**Target:** A mid-level **Concordant Exchange** official on **Virellia ([[0705 - Virellia]])**.
 - The official was overseeing covert deals between **Concordant Exchange bankers** and **Crucible Reliquary Holdings**, laundering pilgrimage donations into offworld investments.
 - The hit was commissioned anonymously, likely by rivals within Concordant Exchange or an opposing faction like **Aleris Systems Collective** who wanted to destabilize Virellian financial networks.
 

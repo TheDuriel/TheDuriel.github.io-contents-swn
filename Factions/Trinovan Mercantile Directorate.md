@@ -1,7 +1,7 @@
 - **Type:** System Government
 - **Structure:** Corporate Syndicate
 - **Culture:** Singaporean Multicultural
-- **Home:** [[0305]] - Trinova
+- **Home:** [[0305 - Trinova]] - Trinova
 - **Services:** Trade regulation, customs enforcement, orbital defenses.
 - **Vibe:** Hypermodern automated bureaucracy.
 * **Bases:** 
@@ -10,19 +10,27 @@
 	- **Comptroller Alessa Virel:** Oversees customs enforcement; rumored ties to pirate suppression rings.
 	- **Admiral Ilya Vorn:** Commands the Orbital Defense Grid; career military loyalist chafing under corporate oversight.
 ---
-%%
 ### Statistics
-* **Force:** 5
+* **Force:** 3
 * **Cunning:** 6
-* **Wealth:** 7
-* **HP:** 41
+* **Wealth:** 8
+* **HP:** 40/40
 * **XP:** 
-* **FC:** 
-* **Tags:** Planetary Government
+* **FC:** 6 - 
+* **Tags:** [[Tags#Planetary Government]]
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
+
+| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
+| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
+|      |     |          |     |      |        |         |      |
+|      |     |          |     |      |        |         |      |
+|      |     |          |     |      |        |         |      |
+|      |     |          |     |      |        |         |      |
+
+
 - **System Defense Fleet (TL4)** — Patrol frigates and drone wings enforcing trade security.
 - **Trade Authority Bureau** — Administrative espionage and economic manipulation network.
 - **Orbital Taxation Grid** — Automated customs scanning arrays at major docking rings.
@@ -32,4 +40,3 @@
 - Every shipment entering or leaving the Southern Arc must pass through **Trinova’s customs networks**, making them one of the wealthiest system-states in the sector.
 - While efficient, the Directorate’s rule is brittle — factions within the board vie for influence, and rumors suggest some are secretly funding **pirates** or **independent mining groups** to destabilize rivals.
 - Locals joke: “Nothing moves through Trinova without paying the tithe — in credits, favors, or silence.”
-%%

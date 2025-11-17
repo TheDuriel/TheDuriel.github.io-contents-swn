@@ -31,7 +31,7 @@ The spires are living structures: layered calciform and chitinous growths produc
 - **Precursor-like strata:** Occasional metallic filaments embedded deep in the oldest spires — prime targets for salvage and Obsidian Dynamics.
 
 **Factions & Presence**
-- **[[Aleris Systems Collective]] ([[0105]])** — research stations and long-range sensor towers on select spire caps. They study spire growth, neural networks and potential communications. They push for open scientific study.
+- **[[Aleris Systems Collective]] ([[0105 - Aleris]])** — research stations and long-range sensor towers on select spire caps. They study spire growth, neural networks and potential communications. They push for open scientific study.
 - **[[Greenflow Biotics]]** — corporate bioprospecting concessions for the extraction and commercialization of biocrystals; run several heavily guarded sky platforms.
 - **[[Obsidian Dynamics]]** — shadow teams and cutouts searching older spires for precursor filaments; suspected of covert operations and theft.
 - **Sky-Clans (native)** — small human/indigenous groups and former colonists living on lower terraces and in spire caves; they practice spire-cultism, harvest spire fruit, and oppose heavy extraction.

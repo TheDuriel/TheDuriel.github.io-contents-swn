@@ -46,6 +46,6 @@
 ## 🔭 Sector Role
 
 System 0406 serves as:
-- A **pirate choke point** along the Central Spine, threatening convoys between **Koralis ([[0404]])** and **Aurix ([[0505]])**.
+- A **pirate choke point** along the Central Spine, threatening convoys between **Koralis ([[0404 - Koralis]])** and **Aurix ([[0505 - Aurix]])**.
 - A **lawless frontier** where PCs can deal with pirates, smugglers, and shadow corporations.
 - A **sandbox for high-risk jobs**: asteroid mining, salvage, espionage, or negotiations.

@@ -32,10 +32,10 @@
 * Armor Class: 14
 * Health: 20 / 20
 
-| Weapon           | DMG | Power | Mass | Hardpoints | AP  | Qualities |
-| ---------------- | --- | ----- | ---- | ---------- | --- | --------- |
-| Multifocal Laser | 1d4 | 5     | 1    | 1          | 20  |           |
-| Sandtrower       | 2d4 | 3     | 1    | 1          |     | Flak      |
+| Weapon           | DMG | Power | Mass | Hardpoints | Qualities |
+| ---------------- | --- | ----- | ---- | ---------- | --------- |
+| Multifocal Laser | 1d4 | 5     | 1    | 1          | 20AP      |
+| Sandtrower       | 2d4 | 3     | 1    | 1          | Flak      |
 
 ### Charts
 * Charts purchased: 3213-07-1
@@ -50,10 +50,10 @@
 * 1 Salvage Kit - Marko
 
 ### Crew
-* **Captain / Pilot:** [[Marko - Gonk]] 
-* **Science Officer:** [[Brian - Gannymede]]
-* **Security Officer:** [[Chris - Tommy Gun]]
-* **Medic:** [[Seb - Rasputin]]
+* **Captain / Pilot:**	[[Marko - Gonk]] 
+* **Science Officer:**	[[Brian - Gannymede]]
+* **Security Officer:**	[[Chris - Tommy Gun]]
+* **Medic/Spiritual:**	[[Seb - Rasputin]]
 
 ### Bank Accounts
 Public Banking information.
@@ -61,7 +61,7 @@ Public Banking information.
 | Owner                 | Bank                    | Credits |                  |
 | --------------------- | ----------------------- | ------- | ---------------- |
 | Ship                  | [[Concordant Exchange]] | 172.500 |                  |
-| [[Marko - Gonk]]      | The Exchange            | 6.100   |                  |
+| [[Marko - Gonk]]      | The Exchange            | 5.850   |                  |
 | [[Brian - Gannymede]] | The Exchange            | 6.000   |                  |
 | [[Chris - Tommy Gun]] | The Exchange            | 5.920   | Held by Mr. Gonk |
 | [[Seb - Rasputin]]    | The Exchange            | 6.000   |                  |

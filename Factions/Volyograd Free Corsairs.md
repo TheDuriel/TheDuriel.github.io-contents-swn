@@ -11,20 +11,12 @@
 * **Force:** 6
 * **Cunning:** 4
 * **Wealth:** 2
-* **HP:** 24/24
-* **XP:** 
-* **FC:** 3 - 
-* **Tags:** [[Tags#Pirates]]
+* **Tags:** Pirates
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-
+* Strike Fleet - [[0406 - Volyograd]]
+* Blockade Fleet - [[0305 - Trinova]]
+* Smugglers - [[0505 - Aurix]]
 ### Notes

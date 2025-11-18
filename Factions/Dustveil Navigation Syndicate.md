@@ -11,19 +11,13 @@
 * **Force:** 4
 * **Cunning:** 6
 * **Wealth:** 2
-* **HP:** 24/24
-* **XP:** 
-* **FC:** 3 - 
-* **Tags:** [[Tags#Secretive]]
+* **Tags:** Secretive
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Type                         | HP  | Location |
-| ---------------------------- | --- | -------- |
-| [[Assets#Counterintel Unit]] | 4   | [[0003 - Dustveil]] |
-| [[Assets#Smugglers]]         | 4   | [[0208 - Emerald Grave]] |
-| [[Assets#Covert Shipping]]   | 4   | [[0003 - Dustveil]] |
+* Counterintel Unit - [[0003 - Dustveil]]
+* Smugglers - [[0208 - Emerald Grave]]
+* Covert Shipping - [[0003 - Dustveil]]
 
 ### Notes

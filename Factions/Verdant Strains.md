@@ -11,20 +11,10 @@
 * **Force:** 2
 * **Cunning:** 2
 * **Wealth:** 1
-* **HP:** 9/9
-* **XP:** 
-* **FC:** 2 - 
-* **Tags:** [[Tags#Colonists]]
+* **Tags:** Colonists
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
 
 ### Notes

@@ -11,20 +11,13 @@
 * **Force:** 7
 * **Cunning:** 5 
 * **Wealth:** 3
-* **HP:** 33/33
-* **XP:** 
-* **FC:** 4 - 
-* **Tags:** [[Tags#Warlike]]
+* **Tags:** Warlike
 * **Goal:**
 * **Allies:**
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-
+* Strike Fleet - [[0501 - Iron Scar]]
+* Seditionists - [[0404 - Koralis]]
+* Beachhead Landers - [[0501 - Iron Scar]]
+* Postech Infantry - [[0501 - Iron Scar]]
 ### Notes

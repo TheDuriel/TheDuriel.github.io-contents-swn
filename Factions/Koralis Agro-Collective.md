@@ -11,20 +11,13 @@
 * **Force:** 2
 * **Cunning:** 3
 * **Wealth:** 6
-* **HP:** 24/24
-* **XP:** 
-* **FC:** 4 - 
-* **Tags:** [[Tags#Plutocratic]]
+* **Tags:** Plutocratic
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
+* Harvesters - [[0404 - Koralis]]
+* Guerrilla Populace - [[0404 - Koralis]]
+* Informers - [[0404 - Koralis]]
 
 ### Notes

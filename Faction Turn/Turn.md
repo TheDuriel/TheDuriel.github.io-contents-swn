@@ -1,58 +1,25 @@
 ---
 draft: true
 ---
+# Turn 0
 
-1. Randomize Faction Order
-2. Go through each faction
-3. Choose Goal or skip turn to abandon it
-4. Gain Credits, ceil(wealth / 2) + floor((force + cunning) / 4)
-5. Pay Maintenance
-6. Do one of:
-	1. Attack
-	2. Buy Asset
-	3. Change Homeworld
-	4. Expand Influence
-	5. Refit Asset
-	6. Repair Asset/Faction
-	7. Sell Asset
-	8. Seize Planet
-	9. Use Ability
+### Trinovan Blockage
+[[Trinovan Mercantile Directorate]] maintains a monopoly on southern sector shipping and merchantile activities.
+[[Volyograd Free Corsairs]] have been contracted to blockade the planet to create opportunities for their employers to break that hold.
+[[Virellian Concord]] and [[Aurixian Orders]] are working together to break Trinova and expand their influence.
+[[Aleris Systems Collective]] and [[Aleran Technocracy]] benefit from Trinova acting as a mediator between the more faith driven half of the sector.
 
----
-Type		Stats	HP	Assets
-Minor		4 3 1 	15	1p 1s
-Medium	6 4 2	24	2p 1s
-Large		6 4 4	35	3p 2s
-Sys Gov	7 5 3	33	3p 2s
-Major		8 6 3	40	3p 3s
+### The Iron Demand
+[[The India Corporation]] is a people based on a series of orbital platforms, with low resources and limited population room.
+They are currently sowing dissent in [[0404 - Koralis]], trying to either force the company to supply their people. Or start an all out war.
 
----
+### Alien Goldrush
+[[Greenflow Biotics]] is currently working with the [[Veyric Resource Group]] in a 'joint' project under the [[Aleran Technocracy]] to excavate various sites in the south of the sector.
+There are however disagreements about their findings. Greenflow insists that they are best equipped, while Aleran claims right by discovery.
+[[Obsidian Dynamics]] watches them like a hawk, infiltrating and preparing for the possibility of a technological risk event or alien outbreak.
 
-[[Aleran Technocracy]]
-[[Aleris Systems Collective]]
-[[Aurixian Orders]]
-[[Concordant Exchange]]
-[[Koralis Agro-Collective]]
-[[Lyranthi Assembly]]
-[[Ordis Combine]]
-[[Pilgrim’s Star Logistics]]
-[[Valdoran League]]
-[[Verdant Strains]]
-[[Veyric Resource Group]]
-[[Virellian Concord]]
+# Turn 1 - August
 
----
-# Turn 1
-[[Aureline Dynamics]]
-[[Crucible Reliquary Holdings]]
-[[Dustveil Navigation Syndicate]]
-[[Eidolynx Media]]
-[[Greenflow Biotics]]
-[[Helion Shipworks]]
-[[Lyranth Forgeworks]]
-[[Obsidian Dynamics]]
-[[Tarkos Extraction Limited]]
-[[The India Corporation]]
-[[Trinovan Mercantile Directorate]]
-[[Virellia Spire Media]]
-[[Volyograd Free Corsairs]]
+* Volyograd blockade fleet vs Trinovan Defense Fleet - 10 vs 6 - The blockade holds
+* India Corporation seditionists vs Koralis Aggro Directive population - 7 v 13 - Seditionists are unsuccessful
+* Obsidian Dynamics opens a job to secure dangerous finds in [[0208 - Emerald Grave]]

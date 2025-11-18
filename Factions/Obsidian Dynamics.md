@@ -11,20 +11,10 @@
 * **Force:** 4
 * **Cunning:** 8
 * **Wealth:** 4
-* **HP:** 38/38
-* **XP:** 
-* **FC:** 5 - 
-* **Tags:** [[Tags#Secretive]]
+* **Tags:** Secretive
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
 
 ### Notes

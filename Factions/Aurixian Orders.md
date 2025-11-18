@@ -11,19 +11,14 @@
 * **Force:** 7
 * **Cunning:** 4
 * **Wealth:** 5
-* **HP:** 35/35
-* **XP:** 
-* **FC:** 5 - 
-* **Tags:** [[Tags#Planetary Government]]
+* **Tags:** Planetary Government
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
+* Gate Defense Fleet - [[0505 - Aurix]]
+* Psychic Medical Center - [[0505 - Aurix]]
+* Vanguard Cadres - [[0505 - Aurix]]
+* Security Protocol - [[0505 - Aurix]]
 
-| Type                          | Location               | HP  |
-| ----------------------------- | ---------------------- | --- |
-| [[Assets#Integral Protocols]] | [[0505 - Aurix]] Crucible Gate | 10  |
-| [[Assets#Strike Fleet]]       | [[0505 - Aurix]]               | 8   |
-| [[Assets#Medical Center]]     | [[0505 - Aurix]] Aurix Prime   | 8   |
-| [[Assets#Vanguard Cadres]]    | [[0505 - Aurix]] Aurix Prime   | 8   |
 ### Notes

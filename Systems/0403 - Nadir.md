@@ -81,7 +81,7 @@ It’s considered neutral ground — even pirates tend to leave it alone, fearin
 - **Defenses:** Automated / Patrols
 
 The **Crossbay Hub** is the lifeline of the system — the only semi-stable stop for refuel, food, or legitimate salvage contracts.  
-Every crew passing through [[0403]] comes here, willingly or not. It’s a rough place, kept civil by the Exchange’s monopoly on air, fuel, and security.
+Every crew passing through [[0403 - Nadir]] comes here, willingly or not. It’s a rough place, kept civil by the Exchange’s monopoly on air, fuel, and security.
 
 ### Current Situation
 - **Tarkos Extraction Limited** still holds mineral rights but rarely patrols — their claim-station at _Kavarna-6_ is automated and minimally staffed.

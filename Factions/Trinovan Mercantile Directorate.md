@@ -14,27 +14,15 @@
 * **Force:** 3
 * **Cunning:** 6
 * **Wealth:** 8
-* **HP:** 40/40
-* **XP:** 
-* **FC:** 6 - 
-* **Tags:** [[Tags#Planetary Government]]
+* **Tags:** Planetary Government
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
+* Strike Fleet
+* Monopoly
+* %%Panopticon Matrix%%
 
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-
-
-- **System Defense Fleet (TL4)** — Patrol frigates and drone wings enforcing trade security.
-- **Trade Authority Bureau** — Administrative espionage and economic manipulation network.
-- **Orbital Taxation Grid** — Automated customs scanning arrays at major docking rings.
-- **Privateer Charter Program** — Semi-legal bounty and interdiction contracts against unsanctioned traders.
 ### Notes
 - The Directorate emerged from an alliance of early merchant guilds, refining companies, and port authorities who consolidated power after Trinova’s independence from earlier colonial administrations.
 - Every shipment entering or leaving the Southern Arc must pass through **Trinova’s customs networks**, making them one of the wealthiest system-states in the sector.

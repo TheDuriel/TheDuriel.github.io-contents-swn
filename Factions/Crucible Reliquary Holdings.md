@@ -11,19 +11,13 @@
 * **Force:** 2
 * **Cunning:** 4 
 * **Wealth:** 6
-* **HP:** 24/24
-* **XP:** 
-* **FC:** 4 - 
-* **Tags:** [[Tags#Plutocratic]]
+* **Tags:** Plutocratic
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Type                          | HP  | Location |
-| ----------------------------- | --- | -------- |
-| [[Assets#Venture Capital]]    | 10  | [[0505 - Aurix]] |
-| [[Assets#Bank]]               | 8   | [[0505 - Aurix]] |
-| [[Assets#Hardened Personnel]] | 4   | [[0505 - Aurix]] |
+* Venture Capital - Pilgrim Logistics - [[0505 - Aurix]]
+* Bank - Reliquary Storage - [[0505 - Aurix]]
+* Hardened Personnel - [[0505 - Aurix]]
 
 ### Notes

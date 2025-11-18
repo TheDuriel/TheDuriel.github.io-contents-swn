@@ -1,9 +1,8 @@
 ---
 draft: true
 ---
-
 **Who is running this excavation?**
-- The site is operated by **[[Greenflow Biotics]]**, officially under contract with the **[[Koralis Agro-Collective]]**.
+- The site is operated by **[[Greenflow Biotics]]**, officially under contract with the **[[Veyric Resource Group]]**.
 - Greenflow staff are outwardly “academic researchers,” but most are corporate scientists with heavy security presence.
 - Archaeologists from **Aleris ([[0105 - Aleris]])** provide technical expertise — but are constantly monitored to prevent leaks.
 

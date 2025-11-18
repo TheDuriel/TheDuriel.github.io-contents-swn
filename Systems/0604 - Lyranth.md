@@ -1,75 +1,51 @@
-# <font color="#c00000">Mapping Incomplete</font>
-# Lyranth
+### Lyranth
+- **Star Type:** M-Red .3Sr
+- **Rocky Planets:** 4
+- **Gas Giants:** 2
+- **Exchange Satellite:** Yes
+- **Refueling Options:** Scoopable or Station
+- **Hazards:** Magnetic storms
+- **Traffic Frequency:** Daily
 
-**Star:**
-- Orange K-type main-sequence star.
-- Stable, long-lived, with predictable luminosity.
-- Minor solar storms every 8–10 years; mostly affects orbital sensor grids.
+- **System Authority:** 
+- **Security Level:** Secure
+- **Faction Presence:** 
+- **Military Assets:** 
+- **Industrial Assets:** 
+- **Scientific Assets:** 
 
-### **Planets & Features**
+### Claudius
+- **Type:** Rocky Moon
+- **Position:** Rocky Moon
+- **Size Class:** Small
+- **Moons / Satellites:** 2
+- **Gravity:** Strong
+- **Atmosphere:** Toxic
+- **Temperature:** Hot
+- **Radiation Level:** Light
+- **Terrain / Composition:** Volcanic
+- **Resource Density:** Rich
+- **Weather Patterns:** Stormy
+- **Visibility Conditions:** Foggy
 
-**1. Lyranth Prime (0604.1) – Capital & Naval Hub**
-- **Tech Level:** 4
-- **Population:** ~3.6 billion
-- **Surface:** Temperate oceans, scattered continents, mountain ranges, and urban centers.
-- **Government:** Military Council with civilian advisory board; prioritizes sector security and trade protection.
-- **Economy:**
-    - Industrial production of ships, weapons, and mid-tech manufacturing.
-    - Hub for regional trade, defense contracts, and spike-lane monitoring.
-- **Infrastructure:**
-    - Orbital shipyards producing frigates, corvettes, and cargo vessels.
-    - Defensive orbital platforms covering spike lanes.
-    - Naval academy and fleet coordination centers.
+#### Smiedhafen
+- **Tech Level:** TL4 Post-Tech
+- **Settlement Type:** Colony
+- **Population Size:** Hundreds of Thousands
+- **System Authority / Faction:** Lyranth Foreworks
+- **Law Level:** Military
 
-**2. Aurix Belt Outpost (0604.2)**
-- TL4 orbital refineries and repair stations servicing ships from Aurix and surrounding systems.
-- Automated drone maintenance with small human supervisory teams.
+**Logistics**
+- **Service Prices:** Cheap x0.75
+- **Facilities:** Orbital Shipyards, Volcanic Mining
+- **Docking Options:** Landing Pads
+- **Refueling Availability:** Yes
+- **Communications:** Intermittent
+- **Defenses:** Patrols
 
-**3. Obsidian Reach (0604.3) – Industrial Planet**
-- TL4 manufacturing world focused on heavy machinery, ship components, and industrial tools.
-- Population: ~900,000; mainly engineers and factory workers.
-- Supplies the Lyranth fleet and neighboring TL4 hubs like Aurix and Koralis.
-
-**4. Sentinel Moons (0604.4 & 0604.5)**
-- Two small moons with orbital defense platforms, sensor arrays, and early-warning beacons.
-- Staffed primarily by rotating naval crews.
-
-**5. Harkan Asteroid Field (0604.6)**
-- Rich in iron, nickel, and industrial-grade silicates.
-- Small mining stations provide raw materials for shipbuilding.
-- Occasionally patrolled to deter smuggling or pirate activity.
-
-### **Trade & Route Connections**
-
-- **Major Spike Routes:**
-    - West–East Spine: [[0404 - Koralis]] → [[0604 - Lyranth]] → [[0705 - Virellia]]
-    - Southern Arc: [[0601]] → [[0604 - Lyranth]] → [[0608]]
-- **Neighboring Systems:**
-    - [[0505 - Aurix]] – Aurix (trade and strategic coordination)
-    - [[0601]] – Lhoris (low-tech agricultural trade)
-    - [[0705 - Virellia]] – Virellia (cultural and political coordination)
-    - [[0404 - Koralis]] – Koralis (industrial partner)
-
-### **Security & Military**
-
-- **Orbital Defense Grid:**
-    - TL4 frigates and corvettes patrol spike lanes and maintain sovereignty over the system.
-    - Automated missile batteries and sensor arrays cover key orbital points.
-- **Naval Operations:**
-    - Fleet coordination center on Lyranth Prime manages regional patrols.
-    - Shipyards capable of producing replacement vessels for neighboring TL4 hubs.
-
-### **Adventure Hooks**
-
-1. **Pirate Incursion:** Frontier pirates threaten Harkan Asteroid Field; PCs may be hired to intercept them.
-2. **Espionage:** Rival TL4 powers attempt to infiltrate naval shipyards to steal designs or sabotage production.
-3. **Fleet Exercise:** PCs may be involved in fleet maneuvers, escort missions, or training exercises.
-4. **Pretech Discovery:** Mining in Harkan uncovers TL5+ fragments; the Council may keep it secret or hire adventurers to investigate.
-5. **Trade Dispute:** Aurix or Koralis merchants clash over contracts; PCs may be mediators, saboteurs, or enforcers.
-
-### **Flavor & Setting Notes**
-
-- **Culture:** Highly disciplined, pragmatic, and militarily oriented.
-- **Politics:** Military Council dominates policy; civilian advisory board ensures trade and research needs are balanced.
-- **Environment:** Industrialized capital with major orbital and planetary infrastructure; natural landscapes preserved on outer continents.
-- **Society:** TL4 technology enables a powerful regional fleet, industrial manufacturing, and strong coordination with other TL4 hubs, making Lyranth a **strategic keystone system**.
+**Societal**
+- **Government / Structure:** Corporate Authocraty
+- **Primary Language:** German
+- **Primary Exports / Industry:** Metallics (Metals|Materials|...)
+- **Imports / Needs:** Liquids (Water|Oil|...)
+- **Black Market Activity:** Active

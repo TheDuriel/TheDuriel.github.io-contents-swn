@@ -11,17 +11,12 @@
 * **Force:** 1
 * **Cunning:** 4
 * **Wealth:** 3
-* **HP:** 15/15
-* **XP:** 
-* **FC:** 3 - 
-* **Tags:** [[Tags#Fanatical]]
+* **Tags:** Fanatical
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
+* Demagogue - [[0305 - Trinova]]
+* Local Investments - [[0305 - Trinova]]
 
-| Type                         | HP  | Location |
-| ---------------------------- | --- | -------- |
-| [[Assets#Demagogue]]         | 10  | [[0705 - Virellia]] |
-| [[Assets#Local Investments]] | 2   | [[0705 - Virellia]] |
 ### Notes

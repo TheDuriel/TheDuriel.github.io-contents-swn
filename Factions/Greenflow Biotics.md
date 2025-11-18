@@ -11,18 +11,13 @@
 * **Force:** 2
 * **Cunning:** 4
 * **Wealth:** 6
-* **HP:** 24/24
-* **XP:** 
-* **FC:** 4 - 
-* **Tags:** [[Tags#Machiavellian]]
+* **Tags:** Machiavellian
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
+* Pretech Researchers - [[0208 - Emerald Grave]]
+* Mercenaries - [[0208 - Emerald Grave]]
+* Malyth Station - [[0207 - Malyth]]
 
-| Type                           | HP  | Location |
-| ------------------------------ | --- | -------- |
-| [[Assets#Pretech Researchers]] |     |          |
-| [[Assets#Mercenaries]]         |     |          |
-|                                |     |          |
 ### Notes

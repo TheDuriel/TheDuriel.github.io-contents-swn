@@ -1,7 +1,7 @@
 - **Type:** Corporation
 - **Structure:** LLC
 - **Culture:** French Aristrocatic
-- **Home:** [[0704]] - Virellia
+- **Home:** [[0705 - Virellia]]
 - **Services:** Luxury Aerospace Technology and Shipyard.
 - **Vibe:** Apple meets Rolls Royce, Everyone is an Artist.
 * **Bases:** 
@@ -11,19 +11,13 @@
 * **Force:** 6
 * **Cunning:** 2
 * **Wealth:** 4
-* **HP:** 24/24
-* **XP:** 
-* **FC:** 5 - 
-* **Tags:** [[Tags#Plutocratic]]
+* **Tags:** Plutocratic
 * **Goal:**
 * **Allies:** 
 * **Enemies:** [[Helion Shipworks]]
 ### Assets
-
-| Type                         | HP  | Location |
-| ---------------------------- | --- | -------- |
-| [[Assets#Strike Fleet]]      | 8   | [[0704]] |
-| [[Assets#Counterintel Unit]] | 4   | [[0704]] |
-| [[Assets#Monopoly]]          | 12  | [[0704]] |
+* Luxury Technology Strike Fleet - [[0705 - Virellia]]
+* Counterintel Unit - [[0705 - Virellia]]
+* AeroSpace Monopoly - [[0705 - Virellia]]
 
 ### Notes

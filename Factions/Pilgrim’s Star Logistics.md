@@ -11,20 +11,10 @@
 * **Force:** 2
 * **Cunning:** 4
 * **Wealth:** 6
-* **HP:** 24/24
-* **XP:** 
-* **FC:** 4 - 
-* **Tags:** [[Tags#Theocratic]]
+* **Tags:** Theocratic
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
 
 ### Notes

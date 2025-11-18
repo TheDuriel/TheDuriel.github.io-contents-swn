@@ -11,20 +11,10 @@
 * **Force:** 2
 * **Cunning:** 6
 * **Wealth:** 4
-* **HP:** 24/24
-* **XP:** 
-* **FC:** 4 - 
-* **Tags:** [[Tags#Technical Expertise]]
+* **Tags:** Technical
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
 
 ### Notes

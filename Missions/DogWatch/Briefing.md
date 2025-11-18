@@ -1,7 +1,7 @@
 ### Exchange Contract `#EX-GFB5: Authorized Recovery Contract
 * **Contract Type:** Industrial Salvage & Recovery
 * **Client:** Greenflow Biotics (on behalf of Tarkos Extraction Limited)
-* **Location:** TKL-217 “Dogwatch” Extraction Platform, Sector [[0403]] — Outer Drift Zone
+* **Location:** TKL-217 “Dogwatch” Extraction Platform, Sector [[0403 - Nadir]] — Outer Drift Zone
 * **Status:** Contract Authorized | Remote Oversight Active
 ---
 #### **Mission Summary**

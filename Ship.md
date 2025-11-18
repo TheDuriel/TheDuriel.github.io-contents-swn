@@ -30,7 +30,7 @@
 
 ### Combat
 * Armor Class: 14
-* Health: 20 / 20
+* Health: 20 / 17
 
 | Weapon           | DMG | Power | Mass | Hardpoints | Qualities |
 | ---------------- | --- | ----- | ---- | ---------- | --------- |

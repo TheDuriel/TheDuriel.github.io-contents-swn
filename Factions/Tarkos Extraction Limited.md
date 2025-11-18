@@ -11,20 +11,11 @@
 * **Force:** 4
 * **Cunning:** 1
 * **Wealth:** 3
-* **HP:** 15/15
-* **XP:** 
-* **FC:** 3 - 
-* **Tags:** [[Tags#Scavengers]]
+* **Tags:** Scavengers
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-
+* Harvesters - [[0402 - Drosven]]
+* Hardened Personnel - [[0403 - Nadir]]
 ### Notes

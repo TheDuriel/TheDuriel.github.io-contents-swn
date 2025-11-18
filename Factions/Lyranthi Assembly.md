@@ -11,18 +11,10 @@
 * **Force:** 7
 * **Cunning:** 5
 * **Wealth:** 3
-* **HP:** 33/33
-* **XP:** 
-* **FC:** 5 - 5
-* **Tags:** [[Tags#Planetary Government]]
-* **Goal:** [[Goals#Expand Influence]]
+* **Tags:** Planetary Government
+* **Goal:** 
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Location |
-| ---- | :-: | -------- |
-|      |     |          |
-
 
 ### Notes

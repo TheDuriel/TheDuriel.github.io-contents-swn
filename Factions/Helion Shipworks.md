@@ -11,20 +11,13 @@
 * **Force:** 8
 * **Cunning:** 3 
 * **Wealth:** 6
-* **HP:** 40/40
-* **XP:** 
-* **FC:** 5 - 
-* **Tags:** [[Tags#Deep Rooted]]
+* **Tags:** Deep Rooted
 * **Goal:**
 * **Allies:** 
 * **Enemies:** 
 ### Assets
-
-| Name | HP  | Category | TL  | Type | Attack | Counter | Note |
-| ---- | :-: | :------: | :-: | :--: | ------ | ------- | ---- |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
-|      |     |          |     |      |        |         |      |
+* Strike Fleet - [[0004 - Valdora]]
+* Strike Fleet - [[0105 - Aleris]]
+* Extended Theater - [[0004 - Valdora]]
 
 ### Notes

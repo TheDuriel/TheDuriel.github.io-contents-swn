@@ -1,59 +1,22 @@
-# <font color="#c00000">Mapping Incomplete</font>
-# Drosven Reach
+| Star Type      | K-Orange/Red 0.8Sr            | Exchange Satellite    | No                   |
+| -------------- | ----------------------------- | --------------------- | -------------------- |
+| **Planets**    | 3                             | **Refueling Options** | Scoopable or Station |
+| **Gas Giants** | 1                             | **Asteroid Belt**     | Middle > Outer       |
+| **Authority**  | [[Tarkos Extraction Limited]] | **Traffic**           | Weekly               |
+| **Hazards**    | Debris fields                 | **Security Level**    | Light Patrols        |
+## Drosven - Rocky Planet
 
-**Star Type:** K-type orange dwarf  
-**Sector Role:** Harsh industrial frontier, where corporations battle the desert for control of rare resources.  
-**Tone:** _Mad Max meets oil-rig colonialism, with a corporate edge._
+| Category       | Rocky Planet | Size           | Medium     | Position       | Rocky Planet  |
+| -------------- | ------------ | -------------- | ---------- | -------------- | ------------- |
+| **Satellites** | 5            | **Radiation**  | Light      | **Visibility** | Dusty         |
+| **Gravity**    | Earth-Like   | **Atmosphere** | Breathable | **Weather**    | Unpredictable |
+| **Terrain**    | Desert       | **Resources**  | Rich       | **Population** | Settled       |
+#### New New Melbourne - Population Center
 
----
-
-## 🪐 Worlds & Features
-
-### 1. **Khazar (0402.2)** — _“The Dune Forge”_
-- **Type:** Arid terrestrial planet, dominated by vast salt flats, shifting dune seas, and rugged badlands.
-- **Atmosphere:** Thin, breathable with filtration. Frequent sandstorms strong enough to strip paint off hulls.
-- **Resources:**
-    - **Volatic Crystals**: rare energy-reactive minerals buried deep beneath salt flats. They resonate with spike-drives and are a critical component in drive stabilizers.
-    - Small aquifers and rare oases dot the deserts, jealously guarded by local populations.
-- **Settlements:**
-    - Stationary cities are rare; most large-scale operations are **mobile carrier platforms** crawling across the surface.
-    - Independent settlers cluster around wells, small domes, or scavenger camps.
-
-### 2. **Zyden Belt**
-- **Type:** Asteroid belt
-- **Use:** Source of common metals and fuel ice, mined by small syndicate operators and Helion subsidiary rigs.
-- **Hazards:** Constant micro-meteoroid swarms, making mining highly dangerous without hardened shields.
-
-### 3. **Veyric Station (Orbital)**
-- **Type:** Corporate hub in Khazar orbit.
-- **Use:** Acts as customs, export, and refueling station.
-- **Vibe:** A mix of sterile corporate control decks and riotous black-market docks beneath them.
-
-## ⚔️ Factions in 0402
-
-- **Tarkos Extraction Limited:** The dominant player, but spread thin with Crawlers operating in competing regions.
-- **Free Miners of Khazar:** Loosely organized prospectors who scavenge abandoned Tarkos sites or raid weak Crawlers.
-- **Greenflow Biotics (0207):** Operating small research enclaves to exploit hardy desert flora for biopharma applications. They see Tarkos as ecologically catastrophic.
-- **Local Tribes (“Salt-Bloods”):** Semi-nomadic people tied to oasis wells. Hostile toward Tarkos but occasionally cut deals with Free Miners.
-
-## 🎲 Adventure Hooks
-
-1. **The Fallen Crawler:** One of Tarkos’s massive platforms broke down in a salt basin and was abandoned — but its reactor and cargo remain. Multiple groups race to salvage it. PCs are hired to get there first.
-2. **Water Wars:** Tarkos moves a Crawler dangerously close to a Salt-Blood oasis. PCs are contracted to mediate — or enforce one side’s will.
-3. **Crystal Heist:** Free Miners want a strike team (the PCs) to infiltrate a Tarkos Crawler and steal a newly found **volatic crystal seam map.**
-4. **Desert Storm:** A superstorm is approaching Khazar’s equatorial mining fields. PCs must evacuate a station or protect a Crawler against both the storm and opportunistic raiders.
-5. **Corporate War:** Veyric Resource Group (0105) considers Tarkos too reckless and plans to muscle into 0402. PCs could be hired for espionage, sabotage, or negotiations.
-
-## 🎨 Tone & Imagery
-
-- **Crawlers:** Rolling megastructures the size of small cities, bristling with cranes, comm towers, and massive treads or hover-skirt engines.
-- **The Desert:** Burning skies, endless salt plains, sandstorms sweeping across colossal wreckage.
-- **Culture:** Harsh workers in dust-stained uniforms, corporate foremen in gleaming towers, scavengers welding patchwork vehicles to trail the Crawlers.
-
-### **The Carrier Platforms (“Crawlers”)**
-
-- Massive **land-borne fortress-platforms** that mix oil rigs, aircraft carriers, and desert crawlers.
-- Each carries up to 1,000 personnel: workers, security, drones, surveyors.
-- Self-sufficient with mobile reactors, spike-drive component for relocation, and heavy defense batteries.
-- Slowly move across the desert to chase mineral seams and aquifers.
-- Locals call them **“Sand-Fortresses.”**
+| Tech Level     | TL4 Post-Tech     | Type         | Colony                | Authority          | [[Tarkos Extraction Limited]] |
+| -------------- | ----------------- | ------------ | --------------------- | ------------------ | ----------------------------- |
+| **Population** | Thousands         | **Docking**  | Landing Pads          | **Security Level** | Corporate                     |
+| **Prices**     | Expensive x1.5    | **Comms**    | pop_comms             | **Defenses**       | Patrols                       |
+| **Shipyard**   | Repairs Only      | **Services** | Mining and Scavenging | **Refueling**      | Limited                       |
+| **Government** | Corporate Anarchy | **Language** | Aussi                 | **Black Market**   | Dominant                      |
+| **Exports**    | Metalics          | **Imports**  | Organics              | **Maltech Stance** | Psionics ✔ Transhumans ✔      |

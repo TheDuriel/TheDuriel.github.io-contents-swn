@@ -15,7 +15,7 @@
 - Salary for 1 crew: 10,950c
 - Hardpoints: 2 / 2
 - Power: 10 / 10
-- Mass: 10 / 15
+- Mass: 15 / 15 - 8 in cargo
 - Minimum Crew: 2, Captain, Bridge/Pilot
 - Maximum Crew: 6, Gunnery, Engineering, Comms
 - Maximum Cargo: 160 tons solid or liquid
@@ -23,7 +23,7 @@
 - Addons: Atmospheric Configuration, Fuel Scoops, Fuel Bunker
 - Weapons: Multifocal Laser, Sand Thrower
 - Defenses: -
-- Fuel: 2/2
+- Fuel: 2/0
 - Fuel Cost: 500c
 - Hull Repair Host: 1000c each
 - Hull Repair Speed: 2 a day
@@ -49,6 +49,9 @@
 * 3 EVA Vac-suits
 * 1 Salvage Kit - Marko
 
+### Cargo
+90 Tons of Helium-3 at 55c a ton
+
 ### Crew
 * **Captain / Pilot:**	[[Marko - Gonk]] 
 * **Science Officer:**	[[Brian - Gannymede]]
@@ -60,11 +63,11 @@ Public Banking information.
 
 | Owner                 | Bank                    | Credits |                  |
 | --------------------- | ----------------------- | ------- | ---------------- |
-| Ship                  | [[Concordant Exchange]] | 172.500 |                  |
-| [[Marko - Gonk]]      | The Exchange            | 5.850   |                  |
-| [[Brian - Gannymede]] | The Exchange            | 6.000   |                  |
-| [[Chris - Tommy Gun]] | The Exchange            | 5.920   | Held by Mr. Gonk |
-| [[Seb - Rasputin]]    | The Exchange            | 6.000   |                  |
+| Ship                  | [[Concordant Exchange]] | 172900  |                  |
+| [[Marko - Gonk]]      | The Exchange            | 4950    |                  |
+| [[Brian - Gannymede]] | The Exchange            | 6000    |                  |
+| [[Chris - Tommy Gun]] | The Exchange            | 5820    | Held by Mr. Gonk |
+| [[Seb - Rasputin]]    | The Exchange            | 6000    |                  |
 
 ### Possible Upgrades
 
@@ -100,3 +103,6 @@ Public Banking information.
 | 2,000 km (country)            | 10 h            | 2 h 30 m          | 40 m              |
 | 6,000 km (continental)        | 30 h            | 7 h 30 m          | 2 h               |
 | 12,000 km (cross-continental) | 60 h            | 15 h              | 4 h               |
+
+---
+https://docs.google.com/document/d/e/2PACX-1vTW4otssBF6IVurt7rjiIKOY4tNv1FKu4kVFEh9qOL-S046KIFvXCKG8C_da6NScMjW2Nr7qcMcOy6k/pub

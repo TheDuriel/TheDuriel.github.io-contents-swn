@@ -1,16 +1,24 @@
 - **Name:** Tommy Gun - Mallcop 9000
-- **Age:** 
+- **Age:** ?
 - **Gender:** M
-- **Nationality:** 
-- **Homeworld:** 
+- **Nationality:** Canadian?
+- **Homeworld:** Virellia?
 - **Faction:** 
-- **Training:** 
-- **Traits:** 
+- **Training:** Mercenary / Assassin
+- **Traits:** Robotic
 %%
 
 Aka. Mallcop 9000
 
 Canadian
+
+Last job: Virellia
+Businessman got ripped off by a weapons dealer
+Hired to kill the dealer
+Businessman is a sleezebag
+
+
+specialized in the assassination of drug dealers?
 
 Wants to figure out what caused him to be stuck in this body?
 Who killed me and why?

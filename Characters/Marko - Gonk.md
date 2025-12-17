@@ -1,10 +1,10 @@
-- **Name:** REDACTED %%Ivan Vasily Nikolaevich The Terrible%% 
+- **Name:** %%Ivan Vasily Nikolaevich The Terrible%% 
 - **Alias:** Mr Gonk
 - **Age:** 
 - **Gender:** M
 - **Nationality:** Neo-Russian
 - **Homeworld:** 
-- **Faction:** REDACTED %%[[Dustveil Navigation Syndicate]]%%
+- **Faction:** %%[[Dustveil Navigation Syndicate]]%%
 - **Training:** Pilot
 - **Traits:** Slav Squatter and Smoker
 
@@ -21,6 +21,7 @@
 * Fitting: Weapon, Station Keeping, Observation Suite
 * Rifle: DMG 1d12*, RNGE 100/300, 30MG
 * Total Debt: 3k
+
 %%
 ### Notes
 Ivan Vasily Nikolaevich The Terrible

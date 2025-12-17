@@ -1,3 +1,4 @@
+
 | Star Type      | K-Orange/Red 0.8Sr            | Exchange Satellite    | No                   |
 | -------------- | ----------------------------- | --------------------- | -------------------- |
 | **Planets**    | 3                             | **Refueling Options** | Scoopable or Station |
@@ -6,11 +7,11 @@
 | **Hazards**    | Debris fields                 | **Security Level**    | Light Patrols        |
 ## Drosven - Rocky Planet
 
-| Category       | Rocky Planet | Size           | Medium     | Position       | Rocky Planet  |
-| -------------- | ------------ | -------------- | ---------- | -------------- | ------------- |
-| **Satellites** | 5            | **Radiation**  | Light      | **Visibility** | Dusty         |
-| **Gravity**    | Earth-Like   | **Atmosphere** | Breathable | **Weather**    | Unpredictable |
-| **Terrain**    | Desert       | **Resources**  | Rich       | **Population** | Settled       |
+| Category       | Rocky Planet | Size           | Medium     | Position       | Close Hot-Zone |
+| -------------- | ------------ | -------------- | ---------- | -------------- | -------------- |
+| **Satellites** | 5            | **Radiation**  | Light      | **Visibility** | Dusty          |
+| **Gravity**    | Earth-Like   | **Atmosphere** | Breathable | **Weather**    | Unpredictable  |
+| **Terrain**    | Desert       | **Resources**  | Rich       | **Population** | Settled        |
 #### New New Melbourne - Population Center
 
 | Tech Level     | TL4 Post-Tech     | Type         | Colony                | Authority          | [[Tarkos Extraction Limited]] |

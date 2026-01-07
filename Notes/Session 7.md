@@ -7,7 +7,7 @@ Gannymede knows that Evonik Inc is a chemical redistributor that'd be willing to
 +6hrs breslau
 made it through customs
 tommy gun was digitally identified
-michale michaelakov contact at greenflow chemics department
+michale michaelakov contact at greenflow chemics department with steffan stephonson
 4950c total for the 90 tons on the main planet
 tommy gun - going through old messages rolled a 9
 * susan?
@@ -15,7 +15,17 @@ tommy gun - going through old messages rolled a 9
 sold the drugs for 7.5k
 chris and gonk bought a mag pistol
 baby gat the magpistol
++6hrs waiting for the deal
++6hrs transfer from breslau to klaudius
 
+
+
+
+tommygun was active on breslau 4 years ago
+tommygun has a wiki entry
+
+
+tommy gets 1 xp to level up to 3
 
 ---
 assassins sent after gonk?

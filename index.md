@@ -1,4 +1,4 @@
-This folder contains campaign nodes for an in person campaign for Stars Without Numbers. Hosted at https://www.spelkollektivet.com/
+This folder contains campaign notes for an in person campaign for Stars Without Numbers. Hosted at https://www.spelkollektivet.com/
 
 Some pages may contain spoilers. But your characters would definitely know:
 * General faction information, like their nature, size, and services.

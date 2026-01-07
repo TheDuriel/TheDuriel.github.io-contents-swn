@@ -26,4 +26,4 @@ Timeline of "time spending" events. Each entry lists the time at which an event 
 ### Session 7
 * Location [[0604 - Lyranth]]
 * Job:		Cargo Sale and ship upgrades
-* 
+* End:		

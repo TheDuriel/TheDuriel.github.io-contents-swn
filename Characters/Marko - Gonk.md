@@ -8,11 +8,16 @@
 - **Training:** Pilot
 - **Traits:** Slav Squatter and Smoker
 
-* Maintenance Capacity: Int + Con + (Fix * 3) = 4
+* Maintenance Capacity: Int + Con + (Fix * 3) = 7
+* 2 on ship
+
+# Gun mods
+Todo: "Customization" with red dot for +1 hit
+
 
 ### Stalker Drone
 * Tech Level: TL4
-* Fitting Capacity: 3/2 
+* Fitting Capacity: 3/3
 * Armor Class: 13
 * Encumbrance: 2
 * HP: 5 - 1
@@ -21,6 +26,18 @@
 * Fitting: Weapon, Station Keeping, Observation Suite
 * Rifle: DMG 1d12*, RNGE 100/300, 30MG
 * Total Debt: 3k
+
+
+
+
+
+
+
+
+
+
+
+
 
 %%
 ### Notes

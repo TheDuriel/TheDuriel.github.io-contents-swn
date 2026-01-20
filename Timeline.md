@@ -22,8 +22,11 @@ Timeline of "time spending" events. Each entry lists the time at which an event 
 * Location:	[[0503]] -> [[0604 - Lyranth]]
 * Job:		Lyranth arrival
 * End:		3213-August-17-10:00
-
 ### Session 7
-* Location [[0604 - Lyranth]]
+* Location [[0604 - Lyranth]] - Breslau
 * Job:		Cargo Sale and ship upgrades
+* End:		3213-August-18-22:00
+### Session 8 - to be played
+* Location [[0604 - Lyranth]] - Klaudius
+* Job:		Search and Rescue while awaiting ship upgrades
 * End:		

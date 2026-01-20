@@ -1,0 +1,8 @@
+- **Name:** William John Huggins
+- **Age:** 25
+- **Gender:** Male
+- **Nationality:** "Neo British"
+- **Homeworld:** [[0501 - Iron Scar]]
+- **Faction:** %%The India Corporation%% 
+- **Training:** Corporate
+- **Traits:** Ears?

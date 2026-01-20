@@ -54,8 +54,7 @@ A frigate-sized workshop is sufficient for modding any personal gear as per the 
 ### Fitting: Ships Locker
 Cost 20k - Power 0 - Mass 0
 Any TL4 equipment on the gear list can be found in the ship’s locker in amounts commensurate with the ship’s size.
-
-%%### Fitting: Smugglers Hold
+### Fitting: %%Smugglers Hold
 Cost 25k - Power 0 - Mass 1
 2 Tons of Space. Cargo in a smuggler’s hold will never be found by a standard customs inspection. Careful investigation by a suspicious official can find it on a difficulty 10 check using their Wis/Notice skill, and a week-long search one step short of disassembly will find it on a difficulty 7 check.%%
 ### Modification: Power Trunk Streamlining
@@ -108,13 +107,14 @@ Once per space combat, gain a +2 bonus to Speed for three rounds.
 ### Bank Accounts
 Public Banking information.
 
-| Owner                 | Bank                    | Credits |                  |
-| --------------------- | ----------------------- | ------- | ---------------- |
-| Ship                  | [[Concordant Exchange]] | 21523   |                  |
-| [[Marko - Gonk]]      | The Exchange            | 4950    |                  |
-| [[Brian - Gannymede]] | The Exchange            | 6000    |                  |
-| [[Chris - Tommy Gun]] | The Exchange            | 5820    | Held by Mr. Gonk |
-| [[Seb - Rasputin]]    | The Exchange            | 6000    |                  |
+| Owner                 | Bank                    | Credits |     |
+| --------------------- | ----------------------- | ------- | --- |
+| Ship                  | [[Concordant Exchange]] | 21523   |     |
+| [[Marko - Gonk]]      | The Exchange            | 4350    |     |
+| [[Brian - Gannymede]] | The Exchange            | 6000    |     |
+| [[Chris - Tommy Gun]] | The Exchange            | 5820    |     |
+| [[Seb - Rasputin]]    | The Exchange            | 6000    |     |
+|                       |                         |         |     |
 ### Travel Times by Distance
 * System Edge to Planet: 6 hours
 * System Edge to Edge for Jump: 12 hours

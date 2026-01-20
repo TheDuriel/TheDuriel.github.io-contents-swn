@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 
 ## **Tarkos Deep Extraction Platform — Standard Layout**

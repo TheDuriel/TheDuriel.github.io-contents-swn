@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 **Name:** Götz von Berlich
 **Origin:** Human
 **Class:** Warrior

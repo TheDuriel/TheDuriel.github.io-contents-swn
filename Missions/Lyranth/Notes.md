@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Start
 * PCs arrive at mine basecamp
 * PCs are informed and sent out on search

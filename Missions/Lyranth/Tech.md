@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 ## 1. **Subsurface Yield Harmonizer (Pretech Geo-Resonator)**
 
 **What it appears to be:**  

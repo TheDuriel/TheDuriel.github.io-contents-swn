@@ -2,6 +2,24 @@
 draft: true
 ---
 
+30m to access
+30m to control blockage
+20m to rec
+1 hour either direction
+
+30 descent
+20 tram
+10 clearing
+10 to core
+
+Mr Z. Johnson - India Corporation CyberWarfare Unit
+Commander A. Smith - 
+
+50k paid into ship account
+
+
+
+
 Start
 * PCs arrive at mine basecamp
 * PCs are informed and sent out on search

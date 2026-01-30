@@ -109,9 +109,9 @@ Public Banking information.
 
 | Owner                 | Bank                    | Credits |     |
 | --------------------- | ----------------------- | ------- | --- |
-| Ship                  | [[Concordant Exchange]] | 21523   |     |
-| [[Marko - Gonk]]      | The Exchange            | 4350    |     |
-| [[Brian - Gannymede]] | The Exchange            | 6000    |     |
+| Ship                  | [[Concordant Exchange]] | 86523   |     |
+| [[Marko - Gonk]]      | The Exchange            | 3450    |     |
+| [[Brian - Gannymede]] | The Exchange            | 6500    |     |
 | [[Chris - Tommy Gun]] | The Exchange            | 5820    |     |
 | [[Seb - Rasputin]]    | The Exchange            | 6000    |     |
 |                       |                         |         |     |

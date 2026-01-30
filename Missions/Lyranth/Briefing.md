@@ -1,9 +1,9 @@
 # **EXCHANGE SERVICES MISSION BRIEFING**
-**Contract ID:** LX-0604-KLD-SAR-17  
-**Mission Type:** Search and Rescue  
-**Client:** **Lyranth Forgeworks**  
-**Location:** **Klaudius (0604.1)** — Deep Underground Mining Rig  
-**Clearance Level:** Industrial / Restricted  
+**Contract ID:** LX-0604-KLD-SAR-17
+**Mission Type:** Search and Rescue
+**Client:** **Lyranth Forgeworks**
+**Location:** **Klaudius (0604.1)** — Deep Underground Mining Rig
+**Clearance Level:** Industrial / Restricted
 **Priority:** High
 **Briefing:** Lyranth Forgeworks reports a **loss of contact** with one of its **deep-core extraction teams** operating beneath the volcanic crust of Klaudius. The team was assigned to an experimental mining rig designed to access extreme-depth metallic deposits.
 Initial automated telemetry indicates a **catastrophic systems failure** followed by partial power restoration. No further personnel communications have been received.

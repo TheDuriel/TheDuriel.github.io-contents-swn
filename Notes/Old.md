@@ -1,6 +1,49 @@
 ---
 draft: true
 ---
+
+### Session 5
+gannymede analysis shrooms 7
+ran away from a 50 credit fine in nadir
++6 hours system edge
++6 days in transit
+arrival in [[0503]] without issues
+ambushed in 0503, fended of "the pursuers"
+
+generate a job for each pc
+
+raputin needs to help a brother carcinis
+malcop gets a job offer on a dead channel
+grok has his old home base to call in to
+rattigan does favors for someone keeping greenflow off
+
+
+### Session 6
+0503 is a hotly contested pirate and military space
+The crew has had their first encounter, but now needs to sneak their way through
+Military checkpoint and ship inspection
+
+Detour to Redspan Station to pick up some Helium-3
+6 hours
+
+60c per ton, liquid trade goods, up to 100 - 
+55 per for the full thing
+5500c
+
+3 hours loading up on cargo
+
+Mr Faust - Got some nice drugs on that cargo
+10 tons
+
+6 hours wreathline relay
+psych-0
+
+stopped by Lyranthi Patrol
+Patrol Offizier Anna Müller
+-2k for bribing them
+
+6 days until lyranth
+
 ### Session 7
 
 Gannymede knows that Evonik Inc is a chemical redistributor that'd be willing to take their space drugs.

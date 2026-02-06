@@ -13,7 +13,7 @@
 - Used Mass: 9 - Multifocal Laser 1, Sandthrower 1, Atmospheric Configuration 2, Fuel Scoops 2, Fuel Bunker 1, Workshop 1, %%Smugglers Hold%%
 - Remaining Cargo Space: 4 x 20 = 80 Tons
 - Maximum Fuel: 2, Hull 1 + Fuel Bunker
-- Current Fuel: 2
+- Current Fuel: 0
 - Fuel Cost: 500c per unit
 - Hull Repair Host: 1000c per damage
 - Hull Repair Speed: 1 point every 2 days
@@ -74,7 +74,7 @@ Once per space combat, gain a +2 bonus to Speed for three rounds.
 - 6 Month Maintenance Cost: 38,750c
 - Interest: 16%, Sector Default
 - Minimum Payment: 15.000c
-- Outstanding Payments: 2
+- Outstanding Payments: 0
 - Monthly salary for 1 crew: 3,650
 ### Charts
 * Charts purchased: 3213-07-1
@@ -89,32 +89,33 @@ Once per space combat, gain a +2 bonus to Speed for three rounds.
 * Shared Shower
 * Recreation Area
 * Medbay with Autodoc
-### Cargo
-* None
+### Cargo 80 tons
+* 80 - 3600 buy - 
 ### Equipment & Inventory
 * Loading Winch (Warranty void)
 * 3 Rebreathers
 * 1 Carbon Rope
 * 3 EVA Vac-suits
 * 1 Salvage Kit - Marko
-### Crew 4/6
+* 4 Combat Field Uniforms - Trinova P-Sec Brand
+### Crew 5/6
 * **Captain / Pilot:**	[[Marko - Gonk]] 
 * **Science Officer:**	[[Brian - Gannymede]]
 * **Security Officer:**	[[Chris - Tommy Gun]]
 * **Medic/Spiritual:**	[[Seb - Rasputin]]
-* None
+* **Coms Officer**:		[[Daniel - Will Hug]]
 * None
 ### Bank Accounts
 Public Banking information.
 
-| Owner                 | Bank                    | Credits |     |
-| --------------------- | ----------------------- | ------- | --- |
-| Ship                  | [[Concordant Exchange]] | 86523   |     |
-| [[Marko - Gonk]]      | The Exchange            | 3450    |     |
-| [[Brian - Gannymede]] | The Exchange            | 6500    |     |
-| [[Chris - Tommy Gun]] | The Exchange            | 5820    |     |
-| [[Seb - Rasputin]]    | The Exchange            | 6000    |     |
-|                       |                         |         |     |
+| Owner                 | Bank                    | Credits |
+| --------------------- | ----------------------- | ------- |
+| Ship                  | [[Concordant Exchange]] | 37923   |
+| [[Marko - Gonk]]      | The Exchange            | 5450    |
+| [[Brian - Gannymede]] | The Exchange            | 8500    |
+| [[Chris - Tommy Gun]] | The Exchange            | 5820    |
+| [[Seb - Rasputin]]    | The Exchange            | 6000    |
+| [[Daniel - Will Hug]] | The Exchange            | 2000    |
 ### Travel Times by Distance
 * System Edge to Planet: 6 hours
 * System Edge to Edge for Jump: 12 hours

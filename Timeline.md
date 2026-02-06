@@ -39,3 +39,11 @@ Timeline of "time spending" events. Each entry lists the time at which an event 
 * Job: Rescue and Retrieval -> [[Stars Without Number/Missions/Lyranth/Briefing|Briefing]]
 * Summary: Awaiting ship upgrades, the crew undertook an emergency contract to search for and rescue missing personnel within the volcanic mines.
 * Conclusion: Crew met with [[Daniel - Will Hug]] a foreman engineer. And descended into the mines to discover a pretech AI core as the cause of the accident. They then exfiltrated with the assistance of an SpecOps team whose affiliation is currently unknown.
+
+### Log Entry: SW5-6 - Klaudius Departure
+* Start Date: 3123-August-26-22:00
+* End Date: 3213-September-12-12:00
+* Location: [[0604 - Lyranth]] -> [[0404 - Koralis]]
+* Job: -
+* Summary: Crew hired on [[Daniel - Will Hug]] as communications officer. Attempted spike jump to Koralis failed with ship lost in transit for duration.
+* Conclusion: After repairs a second jump successfully concluded the journey. Hold carries valuable gasses.
